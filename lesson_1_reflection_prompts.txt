@@ -42,4 +42,4 @@ How can I use git log and git diff to view history files?
 
 What do I want to try using Git for?
 
-    Now I know how to use the terminal to navigate Git.
+    Now I know how to use the terminal to navigate Git. Testing
